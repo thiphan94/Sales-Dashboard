@@ -49,7 +49,7 @@ The Date Table is utilized for various time-based DAX measures, including but no
 
 ## Data Visualization
 ### Star Schema
-![Star Schema](img/star.png)
+![StarSchema](img/star.png)
 ### Dashboard
 ![Dashboard](img/dashboard.png)
 ![Dashboard](img/dashboard2.png)
