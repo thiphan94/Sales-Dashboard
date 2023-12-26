@@ -1,7 +1,4 @@
 # Power BI Data Visualization Project - Sales-Dashboard
-
-# Sales Dataset README
-
 ## Overview
 
 This dataset contains information related to sales orders, customers, regions, and products. It is designed for data analysis and is structured into four main tables: Sales Orders, Customers, Regions, and Products. Additionally, a Date Table is created to support time-based analysis using Data Analysis Expressions (DAX) in Power BI.
@@ -53,6 +50,8 @@ The Date Table is utilized for various time-based DAX measures, including but no
 ## Data Visualization
 
 ![Dashboard](img/dashboard.png)
+
+![Dashboard](img/dashboard2.png)
 
 ## Project Files
 - `Sales.pbix`: The Power BI report file. You can open this file in Power BI Desktop to interact with the data visualizations and explore the insights.
