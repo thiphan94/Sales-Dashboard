@@ -48,9 +48,10 @@ This dataset contains information related to sales orders, customers, regions, a
 The Date Table is utilized for various time-based DAX measures, including but not limited to:
 
 ## Data Visualization
-
+### Star Schema
+![Star Schema](img/star.png)
+### Dashboard
 ![Dashboard](img/dashboard.png)
-
 ![Dashboard](img/dashboard2.png)
 
 ## Project Files
